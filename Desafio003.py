@@ -1,5 +1,5 @@
 print ('SOMA DOS NUMEROS')
-n1 = input ('Digite o primeiro numero: ')
-n2 = input ('Digite o segundo numero: ')
-resultado = n1 + n2
-print ('A soma de ',n1, '+', n2, 'é', n1+n2)
+n1 = int(input ('Digite o primeiro numero: '))
+n2 = int(input ('Digite o segundo numero: '))
+print ('A soma é ',n1+n2)
+
